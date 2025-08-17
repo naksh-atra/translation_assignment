@@ -1,4 +1,4 @@
-# Next.js Translation Frontend2
+# Next.js Translation Frontend1
 
 1. clone repo
 2. cd/ into directory
@@ -12,3 +12,8 @@
 
 
 deployed on vercel at: https://translation-assignment-76ahgusps-nakshs-projects-294786a2.vercel.app/
+
+
+
+
+#UI Breaks, not updating it anymore
